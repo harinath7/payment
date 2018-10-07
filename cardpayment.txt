@@ -1,0 +1,6 @@
+this is my firstfile
+file created
+file processed
+this is added
+succes
+done
